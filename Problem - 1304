@@ -1,0 +1,23 @@
+Given an integer n, return any array containing n unique integers such that they add up to 0.
+
+Problem Link : https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/
+
+
+class Solution {
+public:
+    vector<int> sumZero(int n) {
+        vector<int>ans;
+        if(n%2!=0) {
+            ans.push_back(0); // pushing 0 for odd index
+            n--;
+        }
+        int x=1;  //adding 1 and then adding elements and its complements
+        for(int i=0;i<n;i+=2) {
+            ans.push_back(x);
+            ans.push_back(-1*x);
+            x++;
+        }
+        return ans;
+        
+    }
+};

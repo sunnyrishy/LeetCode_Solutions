@@ -1,0 +1,38 @@
+No-Zero integer is a positive integer that does not contain any 0 in its decimal representation.
+
+Given an integer n, return a list of two integers [a, b] where:
+
+a and b are No-Zero integers.
+a + b = n
+
+Problem Link : https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/
+
+
+class Solution {
+public:
+
+    bool hasnozero(int n){  //checking if it containg zero
+        while(n!=0){  //checking all digit places of n
+            int k = n%10;
+            if(k==0) {
+                return false;
+            }
+            n = n/10;  //iterating over all position places of n
+        }
+        return true;
+
+    }
+    vector<int> getNoZeroIntegers(int n) {
+        int a = 1;  //initializing a to 1
+        int b = n-1;  //initializing b to total value - a
+        while(true) {
+            if(hasnozero(a) && hasnozero(b)){
+                break;
+            }
+            a++;  //other case
+            b--;
+        }
+        return {a,b};
+        
+    }
+};

@@ -1,0 +1,19 @@
+Given a non-negative integer c, decide whether there're two integers a and b such that a2 + b2 = c.
+
+Problem Link : https://leetcode.com/problems/sum-of-square-numbers/
+
+class Solution {
+public:
+    bool judgeSquareSum(int c) {
+        for(int i=0;i*i<=c;i++) {
+            double x = sqrt(c-(i*i));
+            if(x == int(x)){
+                return true;
+            }
+        }
+        return false;
+        
+    }
+};
+
+//using a^2 + b^2 = c

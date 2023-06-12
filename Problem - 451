@@ -1,0 +1,29 @@
+Given a string s, sort it in decreasing order based on the frequency of the characters. The frequency of a character is the number of times it appears in the string.
+
+Return the sorted string. If there are multiple answers, return any of them.
+
+Problem Link : https://leetcode.com/problems/sort-characters-by-frequency/
+
+
+class Solution {
+public:
+    string frequencySort(string s) {
+        vector<pair<int, int>> a(256);  // all possible ASCII characters
+        int n = s.length();
+        for(int i=0; i<n; i++) {
+            a[s[i]].first++;  // the first value holds the frequency
+            a[s[i]].second = (s[i]);  // the second value holds the ASCII character
+        }
+        sort(a.begin(), a.end());
+        reverse(a.begin(), a.end());
+        string result = "";
+        for(int i=0; i<256; i++) {
+            if(a[i].first > 0) {
+                for(int j=0; j<a[i].first; j++) {
+                    result += (a[i].second);
+                }
+            }
+        }
+        return result;
+    }
+};

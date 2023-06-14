@@ -1,0 +1,26 @@
+Given the root of a Binary Search Tree (BST), return the minimum absolute difference between the values of any two different nodes in the tree.
+
+Problem Link : https://leetcode.com/problems/minimum-absolute-difference-in-bst/
+
+class Solution {
+public:
+
+    int last = INT_MIN/2;
+    int ans = INT_MAX;
+
+    void inOrder(TreeNode* node) {  //inorder traversal i.e left to right
+        if(node->left) {            //traverse further if it has a child
+            inOrder(node->left);
+        }
+        ans = min(ans, node->val -last);   
+        last = node->val;
+        if(node->right) {
+            inOrder(node->right);
+        }
+    }
+    int getMinimumDifference(TreeNode* root) {
+        inOrder(root);
+        return ans;
+        
+    }
+};

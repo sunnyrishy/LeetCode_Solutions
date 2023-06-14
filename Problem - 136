@@ -10,7 +10,7 @@ class Solution {    //using XOR operation
 public:
     int singleNumber(vector<int>& nums) {
         int ans =0;  //initializing ans t0 0
-        for(int i=0;i<size.nums();i++) {    //remember that 0 XOR number equals to that number only
+        for(int i=0;i<nums.size();i++) {    //remember that 0 XOR number equals to that number only
             ans = ans^nums[i];
         }
         return ans;

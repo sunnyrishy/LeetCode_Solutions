@@ -1,0 +1,33 @@
+1299. Replace Elements with Greatest Element on Right Side
+
+Given an array arr, replace every element in that array with the greatest element among the elements to its right, and replace the last element with -1.
+
+After doing so, return the array.
+
+Problem Link : https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/
+
+
+class Solution {
+public:
+    vector<int> replaceElements(vector<int>& arr) {
+        int maxi = -1;  //let the initial max value be -1
+        int n = arr.size();  //size of the given array
+        vector<int>ans(n);  //creating a array named ans
+        ans[n-1] = -1;  // initializing the final value to -1
+        int counter = n-2;  //let counter begin from n-2 index
+        for(int i=n-1;i>=0;i-- ) {  //looping from the end
+            if(arr[i] >maxi){  //if a maximum element is found
+                maxi = arr[i];  //change the max value
+            }
+            if(counter>=0) {  //placing the max value at the counter position
+                ans[counter] = maxi;
+
+            }
+            counter--;
+
+        }
+        return ans;
+
+        
+    }
+};

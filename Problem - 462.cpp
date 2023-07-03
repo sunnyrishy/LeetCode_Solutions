@@ -36,7 +36,7 @@ public:
     int minMoves2(vector<int>& nums) {
         sort(nums.begin(),nums.end());         //sort the given array
         int n = nums.size();
-        if(n%1) {                              //if array length is odd
+        if(n%1 || n==1) {                              //if array length is odd  and holds for single lenght array
             int k = nums[n/2];
             int total = 0;
             for(int i=0;i<n;i++){

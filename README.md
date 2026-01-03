@@ -31,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0840-magic-squares-in-grid](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0840-magic-squares-in-grid) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 <!---LeetCode Topics End-->

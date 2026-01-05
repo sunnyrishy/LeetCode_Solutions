@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0840-magic-squares-in-grid](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1390-four-divisors) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0840-magic-squares-in-grid](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Math

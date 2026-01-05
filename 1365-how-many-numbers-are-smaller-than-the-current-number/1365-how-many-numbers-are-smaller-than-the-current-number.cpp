@@ -3,12 +3,18 @@ public:
     vector<int> smallerNumbersThanCurrent(vector<int>& nums) {
         int n = nums.size();
         vector<int> res;
-        for(int i = 0; i < n; i++){
-            int count = 0;
-            for(int j = 0;  j < n; j++){
-                if(i!=j && nums[j] < nums[i]) count++;
+        vector<int> prefix(101, 0);
+        for(int x : nums){
+            prefix[x]++;
+        }
+        for(int i = 1; i <= 100; i++){
+            prefix[i]+= prefix[i-1];
+        }
+        for(int x : nums){
+            if(x == 0){
+                res.push_back(0);
             }
-            res.push_back(count);
+            else res.push_back(prefix[x-1]);
         }
         return res;
         

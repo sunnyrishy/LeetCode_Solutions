@@ -1,23 +1,33 @@
 class Solution {
 public:
     vector<vector<int>> mergeArrays(vector<vector<int>>& nums1, vector<vector<int>>& nums2) {
-        map<int,int>mpp;
-        for(int i = 0; i < nums1.size(); i++){
-            mpp[nums1[i][0]] = nums1[i][1];
-        }
-        for(int i = 0; i < nums2.size(); i++){
-            if(mpp.find(nums2[i][0]) != mpp.end()){
-                mpp[nums2[i][0]] += nums2[i][1];
+        vector<vector<int>> ans;
+        int i = 0;
+        int j = 0;
+        while(i < nums1.size() && j < nums2.size()){
+            if(nums1[i][0] < nums2[j][0]){
+                ans.push_back({nums1[i]});
+                i++;
+            }
+            else if (nums2[j][0] < nums1[i][0]){
+                ans.push_back({nums2[j]});
+                j++;
             }
             else{
-                mpp[nums2[i][0]] = nums2[i][1];
+                int val = nums1[i][1] + nums2[j][1];
+                ans.push_back({nums1[i][0], val});
+                i++;
+                j++; 
             }
         }
-        vector<vector<int>> ans;
-        for(auto it : mpp){
-            ans.push_back({it.first, it.second});
+        while(i < nums1.size()){
+            ans.push_back(nums1[i]);
+            i++;
         }
-        sort(ans.begin(), ans.end());
+        while(j < nums2.size()){
+            ans.push_back(nums2[j]);
+            j++;
+        }
         return ans;
     }
 };

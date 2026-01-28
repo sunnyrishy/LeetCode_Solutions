@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1390-four-divisors) |
 | [1975-maximum-matrix-sum](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Hash Table
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Union Find
 |  |
 | ------- |
@@ -141,5 +143,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0922-sort-array-by-parity-ii](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 <!---LeetCode Topics End-->

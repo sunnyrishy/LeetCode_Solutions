@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0200-number-of-islands](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0200-number-of-islands) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0922-sort-array-by-parity-ii](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0922-sort-array-by-parity-ii) |

@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0840-magic-squares-in-grid](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0922-sort-array-by-parity-ii](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0268-missing-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |

@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2460-apply-operations-to-an-array](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [3637-trionic-array-i](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/3637-trionic-array-i) |
 ## Hash Table
 |  |
 | ------- |

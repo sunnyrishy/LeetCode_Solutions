@@ -1,30 +1,19 @@
 class Solution {
 public:
     void moveZeroes(vector<int>& nums) {
-        int left = -1;
-        int right = -1;
-        for(int i = 0; i < nums.size(); i++){
-            if(nums[i] == 0){  //first occurance of zero
-                left = i;
-                break;
+        int n = nums.size();
+        vector<int> temp;
+        for(int i = 0; i < n; i++){
+            if(nums[i] != 0){
+                temp.push_back(nums[i]);
             }
         }
-
-        for(int i = left; i < nums.size(); i++){
-            if(nums[i] != 0){  //first occurance of non zero after the first zero
-                right = i;
-                break;
-            }
+        for(int i = 0; i < temp.size(); i++){
+            nums[i] = temp[i];
         }
-        while(right < nums.size()){
-            if(nums[left] == 0 && nums[right] != 0){
-                swap(nums[left], nums[right]);
-                left++;
-                right++;
-            }
-            else{
-                right++;
-            }
+        for(int i = temp.size(); i < n; i++){
+            nums[i] = 0;
         }
+        
     }
 };

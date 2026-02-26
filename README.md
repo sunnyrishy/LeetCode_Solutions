@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Counting Sort
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2460-apply-operations-to-an-array](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/2460-apply-operations-to-an-array) |
@@ -199,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0525-contiguous-array) |
+## String
+|  |
+| ------- |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 <!---LeetCode Topics End-->

@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1200-minimum-absolute-difference](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1266-minimum-time-visiting-all-points) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1390-four-divisors) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Bit Manipulation
 |  |
 | ------- |

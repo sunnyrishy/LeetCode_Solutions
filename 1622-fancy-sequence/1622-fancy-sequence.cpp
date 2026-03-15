@@ -22,10 +22,13 @@ public:
 
     long long modInverse(long long x){
         return modPow(x, MOD-2);
+        // division is not possible when modulo operation happens
+        //so we did a trick to calculate the power of a number using the Fermat's theorm
     }
     
     void append(int val) {
         long long stored_val = ((val - add + MOD) % MOD * modInverse(mul)) % MOD;
+        // normalizing the value
         arr.push_back(stored_val);
     }
     

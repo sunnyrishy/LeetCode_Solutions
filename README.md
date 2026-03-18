@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2460-apply-operations-to-an-array](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3637-trionic-array-i](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/3637-trionic-array-i) |
 ## Hash Table
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [0840-magic-squares-in-grid](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0840-magic-squares-in-grid) |
 | [1975-maximum-matrix-sum](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1975-maximum-matrix-sum) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0525-contiguous-array) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## String
 |  |
 | ------- |

@@ -1,5 +1,7 @@
 class Solution {
 public:
+//optimizing the tabulation method 
+//most optimal    // T = O(n) and S = O(1);
     int fib(int n) {
         if(n <= 1) return n;
         int prev2 = 0;

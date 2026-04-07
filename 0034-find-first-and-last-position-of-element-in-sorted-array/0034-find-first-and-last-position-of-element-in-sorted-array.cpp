@@ -1,48 +1,30 @@
 class Solution {
 public:
-    void find_lb(vector<int>& nums, int target, int &lb){
-        int n = nums.size();
-        int low = 0;
-        int high = n-1;
-        while(low <= high){
-            int mid = low + (high-low)/2;
-            if(nums[mid] == target){
-                lb = mid;
-                high = mid -1;
-            }
-            else if (nums[mid] < target){
-                low = mid + 1;
-            }
-            else high = mid -1;
-        }
-        return;
-    }
-
-    void find_ub(vector<int>& nums, int target, int &ub){
-        int n = nums.size();
-        int low = 0;
-        int high = n-1;
-        while(low <= high){
-            int mid = low + (high-low)/2;
-            if(nums[mid] == target){
-                ub = mid;
-                low = mid +1;
-            }
-            else if (nums[mid] < target){
-                low = mid + 1;
-            }
-            else high = mid -1;
-        }
-        return;
-    }
-
     vector<int> searchRange(vector<int>& nums, int target) {
-        int lb = -1;
-        int ub = -1;
-        find_lb(nums, target, lb);
-        find_ub(nums, target, ub);
-        return {lb, ub};
-
-        
+        int n = nums.size();
+        int start = -1;
+        int end = -1;
+        vector<int> res;
+        int low = 0;
+        int high = nums.size()-1;
+        while(low <= high){
+            int mid = low + (high-low)/2;
+            if(nums[mid] == target){
+                start = mid;
+                end = mid;
+                while((start-1) >= 0 && (nums[start - 1] == target) ){
+                    start = start - 1;
+                }
+                while((end + 1) < n && (nums[end + 1] == target) ){
+                    end = end + 1;
+                }
+                break;
+            }
+            else if (nums[mid] < target) low = mid + 1;
+            else high = mid -1;
+        }
+        res.push_back(start);
+        res.push_back(end);
+        return res;
     }
 };

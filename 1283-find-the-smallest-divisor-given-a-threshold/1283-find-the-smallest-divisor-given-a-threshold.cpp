@@ -1,25 +1,24 @@
 class Solution {
 public:
-    int find_sum(vector<int>&nums, int mid, int threshold){
-        int total = 0;
-        for(int i = 0; i < nums.size(); i++){
-            total += ceil((double)nums[i]/mid);
-            if(total > threshold){
-                return total;
-            }
+    int calculate_value(vector<int>& nums, int threshold, int mid){
+        int val = 0;
+        int n = nums.size();
+        for(int i = 0; i < n; i++){
+            val += ceil((double)nums[i]/(double)mid);
+            if(val > threshold) return val;
         }
-        return total;
+        return val;
     }
 
     int smallestDivisor(vector<int>& nums, int threshold) {
         int n = nums.size();
         int low = 1;
         int high = *max_element(nums.begin(), nums.end());
-        int ans = 1;
+        int ans = high;
         while(low <= high){
             int mid = low + (high-low)/2;
-            int val = find_sum(nums, mid, threshold);
-            if(val > threshold){
+            int res = calculate_value(nums, threshold, mid);
+            if(res > threshold){
                 low = mid + 1;
             }
             else{

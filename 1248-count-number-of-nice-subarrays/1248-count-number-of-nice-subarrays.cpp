@@ -3,12 +3,12 @@ public:
     int numberOfSubarrays(vector<int>& nums, int k) {
         int n = nums.size();
         for(int i = 0; i < n; i++){
-            if(nums[i] % 2 == 1){
-                nums[i] = 1;
+            if(nums[i] % 2 == 1){ //convert the array to binary
+                nums[i] = 1;      //1 indicates it is odd
             }
-            else nums[i] = 0;
+            else nums[i] = 0;   // 0 indicates it is even
         }
-        int count = 0;
+        int count = 0;  //now it is the problem number count number of subarrays with sum k
         int prefix_sum = 0;
         map<int, int> mpp; //sum, index
         mpp[0]++;

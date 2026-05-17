@@ -14,7 +14,7 @@ public:
             if(right <= n-1 && st.find(right) == st.end()) q.push(right);
             if(left >= 0 && st.find(left) == st.end()) q.push(left);
             st.insert(q.front());
-             q.pop();
+            q.pop();
         }
         return false;
     }

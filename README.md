@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2460-apply-operations-to-an-array](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3637-trionic-array-i](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/3637-trionic-array-i) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Math
 |  |
 | ------- |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Design
 |  |
 | ------- |
@@ -281,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
+## Trie
+|  |
+| ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->

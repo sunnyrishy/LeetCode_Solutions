@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Math
 |  |
 | ------- |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2381-shifting-letters-ii](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/2381-shifting-letters-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Design
 |  |
 | ------- |

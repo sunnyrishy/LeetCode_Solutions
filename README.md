@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0525-contiguous-array) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1200-minimum-absolute-difference](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1200-minimum-absolute-difference) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2381-shifting-letters-ii](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/2381-shifting-letters-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |

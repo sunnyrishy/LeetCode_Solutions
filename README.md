@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0258-add-digits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -310,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

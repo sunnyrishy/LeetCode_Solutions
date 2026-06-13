@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3689-maximum-total-subarray-value-i](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3838-weighted-word-mapping](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2460-apply-operations-to-an-array](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/2460-apply-operations-to-an-array) |
+| [3838-weighted-word-mapping](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/3838-weighted-word-mapping) |
 ## Union Find
 |  |
 | ------- |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2381-shifting-letters-ii](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/2381-shifting-letters-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3838-weighted-word-mapping](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/3838-weighted-word-mapping) |
 ## Design
 |  |
 | ------- |

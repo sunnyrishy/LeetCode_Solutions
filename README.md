@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0922-sort-array-by-parity-ii](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -329,5 +330,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->

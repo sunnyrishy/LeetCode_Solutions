@@ -1,11 +1,18 @@
 class Solution {
 public:
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
+        //most optimal code
+        //use the freq count to make a key and store the values for it.
         unordered_map<string, vector<string>> mpp;
         for(string str : strs){
-            string key = str;
-            //sorted word is key, original word is value
-            sort(key.begin(), key.end());
+            vector<int> freq(26, 0); //count the freq of char
+            for(char c : str){
+                freq[c-'a']++;
+            }
+            string key = ""; //make a key out of it. every anagram produces the same key
+            for(int count : freq){
+                key += to_string(count)+"#";
+            }
             mpp[key].push_back(str);
         }
         vector<vector<string>> res;
@@ -13,7 +20,8 @@ public:
             res.push_back(it.second);
         }
         return res;
-        // T = O(n.klogk) and s = O(nk)
-        //n = number of words and k = avg len of word
+        //T = O(n*k) and S = O(n*k)
+        //n is number of words and k is the avg len of word
+        
     }
 };

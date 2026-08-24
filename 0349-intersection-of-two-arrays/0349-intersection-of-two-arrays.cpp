@@ -8,7 +8,7 @@ public:
         int l = 0;
         int r = 0;
         vector<int> res;
-        res.push_back(-1);
+        res.push_back(-1); //just to avoid writing a condition to check pop_back
         while(l < n && r < m){
             if(nums1[l] == nums2[r]){
                 if(nums1[l] != res.back()) res.push_back(nums1[l]);
@@ -18,7 +18,7 @@ public:
             else if (nums1[l] < nums2[r]) l++;
             else r++;
         }
-        res.erase(res.begin());
+        res.erase(res.begin()); //we will remove this 
         return res;
     }
 };

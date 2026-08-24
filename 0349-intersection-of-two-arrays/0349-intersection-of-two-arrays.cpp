@@ -3,22 +3,21 @@ public:
     vector<int> intersection(vector<int>& nums1, vector<int>& nums2) {
         int n = nums1.size();
         int m = nums2.size();
-        sort(nums1.begin(), nums1.end());
-        sort(nums2.begin(), nums2.end());
-        int l = 0;
-        int r = 0;
+        //using unordered_set
+        unordered_set<int> st1;
+        unordered_set<int> st2;
         vector<int> res;
-        res.push_back(-1); //just to avoid writing a condition to check pop_back
-        while(l < n && r < m){
-            if(nums1[l] == nums2[r]){
-                if(nums1[l] != res.back()) res.push_back(nums1[l]);
-                l++;
-                r++;
-            }
-            else if (nums1[l] < nums2[r]) l++;
-            else r++;
+        for(auto it : nums1){
+            st1.insert(it);
         }
-        res.erase(res.begin()); //we will remove this 
+        for(auto it : nums2){
+            st2.insert(it);
+        }
+        for(auto it : st1){
+            if(st2.count(it)){
+                res.push_back(it);
+            }
+        }
         return res;
     }
 };

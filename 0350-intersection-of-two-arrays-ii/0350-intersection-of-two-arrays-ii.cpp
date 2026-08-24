@@ -3,20 +3,23 @@ public:
     vector<int> intersect(vector<int>& nums1, vector<int>& nums2) {
         int n = nums1.size();
         int m = nums2.size();
-        //using sorting and find common elements
-        sort(nums1.begin(), nums1.end());
-        sort(nums2.begin(), nums2.end());
-        int l = 0;
-        int r = 0;
+        unordered_map<int, int> mpp1;
+        unordered_map<int, int> mpp2;
+        for(auto num : nums1){
+            mpp1[num]++;
+        }
+        for(auto num : nums2){
+            mpp2[num]++;
+        }
         vector<int> res;
-        while(l < n && r < m){
-            if(nums1[l] == nums2[r]){
-                res.push_back(nums1[l]);
-                l++;
-                r++;
+        for(auto it : mpp1){
+            if(mpp2.find(it.first) != mpp2.end()){
+                auto itt = mpp2.find(it.first);
+                int min_times = min(it.second, itt->second);
+                for(int i = 0; i < min_times; i++){
+                    res.push_back(it.first);
+                }
             }
-            else if (nums1[l] < nums2[r]) l++;
-            else r++;
         }
         return res;
     }

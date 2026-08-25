@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0066-plus-one) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0242-valid-anagram) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [0840-magic-squares-in-grid](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0840-magic-squares-in-grid) |

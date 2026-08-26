@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0066-plus-one) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0189-rotate-array) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [0840-magic-squares-in-grid](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0840-magic-squares-in-grid) |

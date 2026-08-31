@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1089-duplicate-zeros](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1089-duplicate-zeros) |
 | [1200-minimum-absolute-difference](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1089-duplicate-zeros) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |

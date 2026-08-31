@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1306-jump-game-iii](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1306-jump-game-iii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0840-magic-squares-in-grid) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1266-minimum-time-visiting-all-points) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1390-four-divisors) |
 | [1622-fancy-sequence](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1622-fancy-sequence) |

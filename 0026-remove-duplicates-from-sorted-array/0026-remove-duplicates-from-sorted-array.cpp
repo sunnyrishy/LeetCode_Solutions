@@ -11,5 +11,7 @@ public:
             }
         }
         return k;
+        // k keeps track of the number of unique elements
+        
     }
 };

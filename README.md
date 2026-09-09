@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0941-valid-mountain-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0973-k-closest-points-to-origin](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0840-magic-squares-in-grid) |
+| [0973-k-closest-points-to-origin](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 ## Depth-First Search
 |  |
@@ -424,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
@@ -432,6 +437,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->

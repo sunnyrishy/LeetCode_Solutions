@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3637-trionic-array-i](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/3643-flip-square-submatrix-vertically) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3870-count-commas-in-range](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/3871-count-commas-in-range-ii) |

@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1732-find-the-highest-altitude](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1732-find-the-highest-altitude) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2381-shifting-letters-ii](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/2381-shifting-letters-ii) |

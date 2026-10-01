@@ -10,7 +10,7 @@ public:
         for(const auto& [c,f] : mpp){
             v.push_back({f,c});
         }
-        sort(v.begin(), v.end(), [](const pair<int, char>& a, const pair<int, char>& b){return a > b;});
+        sort(v.begin(), v.end(), [](const pair<int, char>& a, const pair<int, char>& b){return a.first > b.first;});
         for(const auto& [f, c] : v){
             res.append(f, c);
         }

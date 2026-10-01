@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
@@ -489,4 +491,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->

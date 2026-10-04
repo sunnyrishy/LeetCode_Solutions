@@ -1,26 +1,21 @@
 class Solution {
 public:
     int search(vector<int>& nums, int target) {
-        //find the sorted protion and check if that portion is useful to us or not.
+        int n = nums.size();
         int low = 0;
-        int high = nums.size()-1;
+        int high = n-1;
         while(low <= high){
-            int mid = low + (high-low)/2;
+            int mid = (low + (high-low)/2);
             if(nums[mid] == target) return mid;
-            //if left portion is sorted ?
+            //is left portion sorted ?
             if(nums[low] <= nums[mid]){
-                if(target >= nums[low] && target <= nums[mid]){
-                    high = mid -1; //useful
-                } //not useful
+                //is this portion useful ?
+                if(target >= nums[low] && target <= nums[mid]) high = mid-1;
                 else low = mid + 1;
             }
-            else{ // this considers the right portion to be sorted.
-                if(target >= nums[mid] && target <= nums[high]){
-                    low = mid + 1;  //useful
-                }
-                else{  //not useful
-                    high = mid - 1;
-                }
+            else{
+                if(target >= nums[mid] && target <= nums[high]) low = mid +1;
+                else high = mid-1;
             }
         }
         return -1;

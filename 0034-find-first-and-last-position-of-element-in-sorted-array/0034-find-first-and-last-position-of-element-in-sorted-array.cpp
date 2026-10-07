@@ -1,31 +1,25 @@
 class Solution {
 public:
-    int first_occurance(vector<int>& nums, int target){
-        int low = 0;
-        int high = nums.size()-1;
-        int first = -1;
+    int bs_first(int low, int high, vector<int>& nums, int target){
+        int idx = -1;
         while(low <= high){
-            int mid = low + (high-low)/2;
+            int mid = (low + (high-low)/2);
             if(nums[mid] == target){
-                first = mid;
-                high = mid - 1;
+                idx = mid;
+                high = mid-1;
             }
-            else if (nums[mid] < target){
-                low = mid + 1;
-            }
-            else high = mid - 1;
+            else if(nums[mid] < target) low = mid + 1;
+            else high = mid-1;
         }
-        return first;
+        return idx;
     }
 
-    int last_occurance(vector<int>& nums, int target){
-        int low = 0;
-        int high = nums.size() -1;
-        int last = -1;
+    int bs_last(int low, int high, vector<int>& nums, int target){
+        int idx = -1;
         while(low <= high){
-            int mid = low + (high-low)/2;
+            int mid = (low + (high-low)/2);
             if(nums[mid] == target){
-                last = mid;
+                idx = mid;
                 low = mid + 1;
             }
             else if (nums[mid] < target){
@@ -33,16 +27,15 @@ public:
             }
             else high = mid -1;
         }
-        return last;
+        return idx;
     }
 
     vector<int> searchRange(vector<int>& nums, int target) {
-        int lb = -1;
-        int ub = -1;
-        lb = first_occurance(nums, target);
-        ub = last_occurance(nums, target);
-        if(lb == -1) return {-1, -1};
-        return {lb, ub};
-
+        int n = nums.size();
+        int low = 0;
+        int high = n-1;
+        int first = bs_first(low, high, nums, target);
+        int last = bs_last(low, high, nums, target);
+        return {first, last};
     }
 };

@@ -1,16 +1,23 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        //store the value and its index in map
-        // always look for targert-curr = req
-        unordered_map<int, int> mpp;
+        //better approach 
+        //sort the given input and use two pointers
+        vector<pair<int, int>> arr;
         for(int i = 0; i < nums.size(); i++){
-            int req = target-nums[i];
-            if(mpp.find(req) != mpp.end()){
-                return {i, mpp.find(req)->second};
-            }
-            mpp[nums[i]] = i;
+            arr.push_back({nums[i], i});
         }
-        return {-1,-1};
+        sort(arr.begin(), arr.end());
+        int left = 0;
+        int right = nums.size()-1;
+        while(left < right){
+            int sum = arr[left].first + arr[right].first;
+            if(sum == target){
+                return {arr[left].second, arr[right].second};
+            }
+            else if (sum < target) left++;
+            else right--;
+        }
+        return {};
     }
 };

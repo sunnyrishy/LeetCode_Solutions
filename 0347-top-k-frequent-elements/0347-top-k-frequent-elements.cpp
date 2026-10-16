@@ -6,18 +6,17 @@ public:
         for(int i = 0; i < nums.size(); i++){
             mpp[nums[i]]++;
         }
-        for(auto& it : mpp){
+        for(auto it : mpp){
             pq.push({it.second, it.first});
             if(pq.size() > k){
                 pq.pop();
             }
         }
-        vector<int> res;
+        vector<int> ans;
         while(!pq.empty()){
-            res.push_back(pq.top().second);
+            ans.push_back(pq.top().second);
             pq.pop();
         }
-        return res;
+        return ans;
     }
-
 };

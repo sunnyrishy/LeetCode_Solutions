@@ -1,6 +1,8 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
+        //sliding window
+        //expand window if s[right] is not seen else reduce window until that element is removed
         int n = s.size();
         unordered_set<char> st;
         int maxi = 0;

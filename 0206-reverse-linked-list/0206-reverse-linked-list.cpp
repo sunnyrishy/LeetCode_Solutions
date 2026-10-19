@@ -11,6 +11,7 @@
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
+        //always keep track of back, curr, next and play with the pointers.
         ListNode* back = NULL;
         ListNode* curr = head;
         while(curr){

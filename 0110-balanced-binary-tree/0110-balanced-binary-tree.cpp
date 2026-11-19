@@ -22,14 +22,6 @@ public:
 
     bool isBalanced(TreeNode* root) {
         if(root == NULL) return true;
-        int lh = find_h(root->left);
-        int rh = find_h(root->right);
-        if(lh == -1 || rh == -1) return false;
-        if(abs(lh-rh) > 1) return false;
-
-        bool left = isBalanced(root->left);
-        bool right = isBalanced(root->right);
-        if(!left || !right) return false;
-        return true;
+        return find_h(root) != -1;
     }
 };

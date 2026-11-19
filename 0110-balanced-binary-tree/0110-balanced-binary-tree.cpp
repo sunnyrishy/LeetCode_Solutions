@@ -15,6 +15,8 @@ public:
         if(root == NULL) return 0;
         int lh = find_h(root->left);
         int rh = find_h(root->right);
+        if(lh == -1 || rh == -1) return -1;
+        if(abs(lh-rh) > 1) return -1;
         return 1+max(lh, rh);
     }
 
@@ -22,6 +24,7 @@ public:
         if(root == NULL) return true;
         int lh = find_h(root->left);
         int rh = find_h(root->right);
+        if(lh == -1 || rh == -1) return false;
         if(abs(lh-rh) > 1) return false;
 
         bool left = isBalanced(root->left);

@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0836-rectangle-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0973-k-closest-points-to-origin](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -552,4 +554,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->

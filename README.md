@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0605-can-place-flowers](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0605-can-place-flowers](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/sunnyrishy/LeetCode_Solutions/tree/master/1833-maximum-ice-cream-bars) |
